@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            body {
+            background-color: linen;
+            }
+            h1 {
+            color: maroon;
+            margin-left: 40px;
+            }
+        </style>
+        <title>How to do 1 + 1.</title>
+    </head>
+    <body>
+        <h1>How to do 1 + 1.</h1>
+        <p>To add 1 + 1, you simply combine the two numbers.</p>
+        <p>If you have one banana, and buy another one. Now you have two bananas.</p>
+        <p>So, 1 + 1 = 2</p>
+    </body>
+    <img src="https://th.bing.com/th/id/R.5b3d1498c6922952e18a41fe4d536913?rik=KL272XKqGQW%2bEw&riu=http%3a%2f%2fwww.quickmeme.com%2fimg%2f1e%2f1e316e8b30384c27aa347055973c419a658e6673e630d193304482261ef5de28.jpg&ehk=Txn7iyV47%2brFm7tRCF%2bCK7c8xE%2biH%2fKzTXRIeaQCvMo%3d&risl=&pid=ImgRaw&r=0"\>
+</html>
+
